@@ -9,7 +9,4 @@ dependencies:
   - traitlets
   - bqplot=0.12.30
   - plolty=4.1.0
-  - click
-  - dash
-  - dcc
-  - html
+  
